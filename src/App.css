@@ -7,6 +7,14 @@
   pointer-events: none;
 }
 
+.badge {
+  font-size: x-small;
+  border: 2px solid dodgerblue;
+  border-radius: 4px;
+  padding: 0.2em;
+  margin: 0.1em;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
